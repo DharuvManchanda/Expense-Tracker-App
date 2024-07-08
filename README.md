@@ -1,16 +1,11 @@
-# expense_tracker_app
+Expense Tracker App
+This Flutter application allows you to manage your finances by tracking two types of transactions: expenses and income. It calculates your balance, displays a list of transactions grouped by date, and stores data locally using SharedPreferences, ensuring your information is preserved between app sessions.
 
-A new Flutter project.
+Key features:
 
-## Getting Started
+Input and categorize transactions as either expense or income.
+View your balance and transaction history.
+Transactions are displayed in a grouped and organized manner by date.
+Local data persistence with SharedPreferences.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to clone and contribute to the project
